@@ -1,0 +1,266 @@
+{
+    "nav": {
+        "about": "Main",
+        "function": "Function",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "download": "Download"
+    },
+    "section-main": {
+        "logo": "Логотип компании",
+        "company-name": "Название компании",
+        "tagline": "Путь в новое будущее!"
+    },
+    "section-real-time-translation": {
+        "image": "Изображение Element 1",
+        "title": "NeeO Реальное Время Перевода",
+        "description": "Сколько раз вы уклонялись от добавления иностранцев в свой список друзей? Многие из нас думают о том, чтобы начать новую жизнь в другой стране, но вместо того, чтобы рассмотреть все возможные варианты, мы в конечном итоге ограничиваем...",
+        "button": "Узнать больше"
+    },
+    "section-neeo-global": {
+        "title": "NeeO Глобал",
+        "description": "Вот еще одна замечательная функция от команды Neeo для ее подписчиков и клиентов. Давайте представим уникальную функцию Neeo Nearby. Эта функция позволяет нашим пользователям Neeo свободно оставаться на связи с находящимися поблизости пользователями Neeo...",
+        "button": "Узнать больше",
+        "image": "Изображение Element 2"
+    },
+    "section-neeo-social": {
+        "title": "NeeO Социал",
+        "description": "Социальная функция Neeo поможет вам выразить себя и связаться со своими близкими. Присоединяйтесь к Neeo Social и загружайте фотографии и видео из своей галереи или делайте живые фотографии. Сделайте свои публикации более привлекательными, используя удивительные цветовые эффекты...",
+        "button": "Узнать больше",
+        "image": "Изображение Element 3"
+    },
+    "section-neeo-world-calling": {
+        "title": "NeeO World Calling",
+        "description": "Звонок своим близким — лучший способ связаться с ними, когда вы физически не можете быть рядом с ними. Услышав чей-то голос, вы можете почти точно оценить, что он чувствует...",
+        "button": "Узнать больше",
+        "image": "Изображение Element 4"
+    },
+    "section-send-stickers": {
+        "title": "Отправить стикеры или GIF",
+        "description": "Обмен данными вызывает большую озабоченность у многих наших клиентов и заказчиков. Что касается несовместимых опций, то ни у кого еще не было легкости в душе – будь то...",
+        "button": "Узнать больше",
+        "image": "Изображение Element 5"
+    },
+    "section-neeo-group-calls": {
+        "title": "Групповые звонки NeeO",
+        "description": "Сколько раз вы уклонялись от добавления иностранцев в свой список друзей? Многие из нас думают о том, чтобы начать новую жизнь в другой стране, но вместо того, чтобы рассмотреть все возможные варианты, мы в конечном итоге ограничиваем....",
+        "button": "Узнать больше",
+        "image": "Изображение Element 6"
+    },
+    "section-neeo-emotions": {
+        "title": "NeeO эмоции с помощью анимированных стикеров",
+        "description": "Выражай свои эмоции в переписке с помощью красивых и смешных анимированных стикеров",
+        "button": "Узнать больше",
+        "image": "Изображение Element 7"
+    },
+    "section-environment": {
+        "text": "Двусторонняя среда для общения на более чем 100 языках, которая еще более глубоко связывает вас с людьми со всего мира! Наш помощник Neeo IM успешно наводит мосты и преодолевает языковые барьеры для бизнеса и потребителей соответственно.",
+        "block-text1": "Благодаря нашей современной функции Neeo IM вы получаете возможность вести бесплатный автоматический чат, а также выполняет функцию переводчика.",
+        "block-text2": "Всегда оставайтесь на связи в пути с помощью вашей личной карты Neeo.",
+        "block-text3": "Начните звонить с помощью функции Neeo World Calling по доступным и карманным тарифам.",
+        "block-text4": "Идеальная облачная альтернатива как для чатов в мессенджерах, так и для приложений для перевода."
+    },
+    "section-download": {
+        "title": "Скачайте приложение, чтобы начать",
+        "iphone": "Скачать для iPhone",
+        "android": "Скачать для Android"
+    },
+    "section-top": {
+        "neeo": "NEEO",
+        "messenger": "Messenger",
+        "instantTranslator": "Instant text translator for more than 100 foreign languages",
+        "teamTitle": "The Neeo project team has released its own NEEO Gold token!",
+        "teamDescription": "Thank you for staying with us! You can read more about the NEEO gold token in the Project Development section.",
+        "projectLink": "Project Development"
+    },
+    "section-messenger": {
+        "revMessenger": "Revolutionary",
+        "messenger": "Messenger",
+        "blockchainTech": "Based on blockchain technology",
+        "instantTranslatorTitle": "Instant Translator",
+        "instantTranslatorDesc": "NEEO Messenger immediately translates text messages from more than hundred foreign languages into your native language.",
+        "downloadsTitle": "Over 9 000 000 Downloads",
+        "downloadsDesc": "he app is available for download in Google Play and App Store. More than 9 000 000 users already rated it since the launch.",
+        "languageHelpTitle": "Study Assistance",
+        "languageHelpDesc": "The NEEO Messenger dictionary continually updates by users themselves allowing you to learn new words in a foreign language every day.",
+        "earnWithNEEOTitle": "Earn with NEEO",
+        "earnWithNEEODesc": "Advertisers can promote their products while users can earn NEEO tokens by scoring points in games and making other simple actions."
+    },
+    "section-stats": {
+        "title": "Statistics Data",
+        "entrepreneursNumber": "400,000,000",
+        "entrepreneurs": "entrepreneurs",
+        "entrepreneursDesc": "That's the number of people according to statistics. In the USA alone, there are over 27 million entrepreneurs.",
+        "tradeGrowth": "79%",
+        "growth": "growth",
+        "tradeGrowthDesc": "These figures represent the development of cross-border trade over the past 5 years. Meaning, millions of entrepreneurs are aiming to enter the international market.",
+        "populationPercent": "80%",
+        "population": "of the population",
+        "populationDesc": "This is the percentage of people in the USA who only speak their native language. In the UK - 85%, in Japan - 90%.",
+        "problemIntro": "They all share one problem: ",
+        "problem": "the need to communicate with people from ",
+        "differentCountries": "different countries",
+        "languageBarrier": "without knowing the language.",
+        "usersIntro": "All of them are actual or potential users of",
+        "neeoMessenger": "NEEO Messenger."
+    },
+    "about": {
+        "title": "About the Project",
+        "item1": "Originally, NEEO Messenger was envisioned as an application to facilitate the development of global trade. Ultimately, we have created a fully-fledged messenger that is used for diverse communication.",
+        "item2": "You write messages in your language and receive a response in the same language, regardless of who your interlocutor is: a Chinese, Brazilian, Dutch, or French person. We didn't just create another messenger – we have completely erased language barriers.",
+        "item3": "To enable users to earn through NEEO Messenger, we built it on blockchain technology. Now, not only advertisers can profit but any user as well.",
+        "item4": "You can add new words and phrases in your language to the application's dictionary and receive a reward. Your work will be evaluated by the NEEO community, which has become possible due to decentralization.",
+        "item5": "Thus, we obtain a constantly updated dictionary that includes slang and neologisms and is capable of translating them into more than 100 languages.",
+        "additionalTitle": "Think we've created the perfect translator messenger?",
+        "additionalText": "Actually, this is just the beginning."
+    },
+
+    "development": {
+        "title": "Project Development",
+        "subtitle": "The Decentralized NEEO App Platform",
+        "tabs": {
+            "social": {
+                "title": "NEEO Social",
+                "desc": "A social network where users earn",
+                "fullDesc": "NEEO Social users receive tokens for the advertising they see, as well as for their activity. Social networks and other platforms earn by selling your personal data to advertisers, while you get nothing in return."
+            },
+            "sellbuy": {
+                "title": "NEEO Sell & Buy",
+                "desc": "A decentralized trading platform",
+                "fullDesc": "We've minimized the risk of fraud thanks to Ethereum-based NEEO tokens. Users of the platform act as judges in trade disputes."
+            },
+            "messenger": {
+                "title": "NEEO Messenger",
+                "desc": "Instant translator",
+                "fullDesc": "The ultimate addition to the NEEO Sell & Buy app. Buying and selling between agents from different countries has become easier: thanks to instant message translation, you know exactly what you're purchasing."
+            },
+            "robot": {
+                "title": "NEEO Robot",
+                "desc": "Instant audio translator",
+                "fullDesc": "Communicating with people whose language you do not understand has become simple. Install NEEO Robot, dictate any phrase into the microphone – and the application will translate it instantly."
+            },
+            "wallet": {
+                "title": "NEEO Wallet",
+                "desc": "Cryptocurrency wallet",
+                "fullDesc": "All financial operations are conducted in NEEO Wallet. Fast and reliable transactions, secure storage of funds, and instant currency exchange."
+            },
+            "taxi": {
+                "title": "NEEO Taxi",
+                "desc": "Taxi service",
+                "fullDesc": "NEEO Taxi offers passengers fair prices and drivers a convenient reward system. All communication takes place through NEEO Messenger for the convenience of both parties."
+            }
+        }
+
+    },
+    "other_apps": {
+        "title": "Other Apps",
+        "subtitle": "NEEO Apps platform",
+        "taxi": {
+            "title": "NEEO Taxi",
+            "desc": "Order a taxi conveniently",
+            "detail": "Integrated taxi ordering service within the NEEO ecosystem"
+        },
+        "mail": {
+            "title": "NEEO Mail",
+            "desc": "Free email service",
+            "detail": "Free email with unlimited storage."
+        },
+        "wifi": {
+            "title": "NEEO Wi-Fi",
+            "desc": "Free internet",
+            "detail": "Free Wi-Fi network in major cities, available to NEEO Apps users."
+        },
+        "download_gol": "Download NEEO GOLD White Paper",
+        "download_beec": "Download BEEC White Paper",
+        "download_whitepaper": "Download White Paper NEEO CHAT"
+    },
+
+    "why_neeo": {
+        "reason": "Why NEEO Messenger",
+        "success_project": "- a successful project",
+        "large_client_base": "Large potential client base",
+        "client_base_desc": "The potential client base of 400,000,000 entrepreneurs who work with foreign agents or want to take their business to the international level. And that's not counting people who communicate with foreigners for personal reasons.",
+        "decentralized_app": "Decentralized application",
+        "decentralized_app_desc": "A decentralized application that supports over 100 languages and a constantly updated dictionary, aids in learning foreign languages. Users do not just get a standard knowledge base, but learn current conversational language, including slang and neologisms.",
+        "high_demand": "High demand",
+        "high_demand_desc": "Considering the growth of cross-border trade and globalization overall, as well as the very small percentage of people who are proficient in foreign languages, NEEO Messenger is simply indispensable. Since the app's development, it has been downloaded by more than 9,000,000 users – the best proof of its demand.",
+        "earning_opportunity": "Earning opportunity",
+        "earning_opportunity_desc": "The application is of interest to advertisers, and users can earn NEEO tokens by performing simple actions: using the messenger in games, adding new words and phrases to the NEEO dictionary. Tokens can be exchanged for other cryptocurrencies and fiat money, as well as used to pay for goods and services on the NEEO Apps platform.",
+        "future_development": "Further project development includes a decentralized social network and a trading platform, where you can earn even on social activity and watching ads.",
+        "future_development_continued": "Blockchain mechanisms, which NEEO Apps is based on, ensure data security and resistance to malicious attacks. They work to accelerate business processes by increasing trust among the platform's users. Collectively, this forecasts a rise in token prices."
+    },
+    "roadmap": {
+        "title": "Road Map",
+        "description": "Project Development Schedule",
+        "image_alt": "Development Schedule Image",
+        "image_alt_mobile": "Development Schedule Image for Mobile Devices",
+        "banner_title": "NEEO Messenger",
+        "banner_description": "Now available on the App Store and Google Play",
+        "app_store_alt": "Download on the App Store",
+        "google_play_alt": "Available on Google Play"
+    },
+
+    "faq": {
+        "heading": "Frequently Asked Questions",
+        "question0": "What is the competitive advantage?",
+        "answer0": "We rely on four main products:",
+        "product1": "NEEO Social - a social network where users earn",
+        "product2": "NEEO Sell & Buy – a P2P online platform, social network NEEO",
+        "product3": "NEEO Messenger – an instant messenger with translation",
+        "product4": "NEEO Robot – an instant translator/robot.",
+        "answer1": "Despite the clear purpose of all applications, they share a common feature – the ability to earn money on any of them. Considering that the platform operates on blockchain technology, our users will have the opportunity to improve their financial situation in the most comfortable, simple, and secure way.",
+        "answer2": "Another distinction from other projects launching ICOs: we already have a functioning NEEO Messenger app, available in the App Store and Google Play and used by more than 9,000,000 users (a launch in Korean app stores is expected).",
+        "question1": "In how many countries is the NEEO messenger used?",
+        "answer3": "Currently, the app has been downloaded by users from 178 countries around the world.",
+        "question2": "When will the platform finally be ready for use?",
+        "answer4": "If we successfully complete the ICO and achieve the necessary level of funding, the entire journey to the final implementation of our blockchain platform will take 12 months. However, regardless of the success of the ICO, blockchain-independent versions of our applications will be presented for user testing in the following order:",
+        "answer5": "NEEO Messenger: available in the app store and on Google Play.",
+        "answer6": "NEEO Sell & Buy: beta version – after April 2019.",
+        "answer7": "NEEO Social Release Beta: version – after April 2019.",
+        "answer8": "NEEO Robot: launch in October 2019.",
+        "answer9": "NEEO Mail: launch in December 2019.",
+        "answer10": "NEEO Wi-Fi: launch in November 2020.",
+        "question3": "Can users not included in NEEO Apps access the platform's products or services?",
+        "answer11": "Yes, this is possible through the company NEEO Sell & Buy: as soon as a seller lists a product for sale, it will automatically be available on other major internet sites.",
+        "question4": "Who owns the NEEO Apps project?",
+        "answer12": "All rights to the NEEO Apps project belong to the Hong Kong company NEEO Pal (neeopal.com)",
+        "answer13": "NEEO tokens will be available on the Сoinsuper exchange from 03/11/19. Exchange and gift your NEEO tokens!",
+        "answer14": "All major cryptocurrency exchanges will eventually operate with NEEO. You will be able to see the price on neeoico.com or any exchanges that will trade NEEO.",
+        "answer15": "You can store NEEO in your ETH wallet and other electronic wallets.",
+        "answer16": "As long as your wallet supports ERC20 tokens, you will be able to hold NEEO in it.",
+        "answer17": "All major cryptocurrency exchanges will eventually operate with NEEO. You will be able to see the price on neeoico.com or any exchanges that will trade NEEO.",
+        "question5": "Will I be able to exchange NEEO on cryptocurrency exchanges?",
+        "question6": "Will I be able to purchase NEEO through the NEEO Apps platform?",
+        "question7": "How can I store NEEO?",
+        "question8": "Which wallets will work?",
+        "question9": "Where can I track the current value of NEEO?"
+    },
+
+    "terms": {
+        "acceptance": "By continuing to use the site you accept our",
+        "linkText": "Terms and Conditions"
+    },
+
+
+
+    "footer": {
+        "contactTitle": "Contact",
+        "partnersHeading": "Partners",
+        "partnersEmail": "business@neeosale.com",
+        "supportHeading": "Support",
+        "supportEmail": "info@neeosale.com",
+        "feedbackHeading": "Feedback",
+        "feedbackEmail": "feedback@neeosale.com",
+        "about": "About the Project",
+        "development": "Project Development",
+        "prospects": "Prospects",
+        "whitepaper": "White Paper",
+        "faq": "FAQ",
+        "tokens": "NEEO Tokens",
+        "address": "neeopal.com",
+        "terms": "Terms and Conditions"
+    }
+
+
+
+}

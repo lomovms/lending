@@ -1,0 +1,200 @@
+{
+    "nav": {
+        "about": "Main",
+        "function": "Function",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "download": "Download"
+    },
+    "section-top": {
+        "neeo": "NEEO",
+        "messenger": "信使",
+        "instantTranslator": "即时文本翻译，支持100多种外语",
+        "teamTitle": "NEEO项目团队已发行自己的NEEO Gold代币！",
+        "teamDescription": "感谢您与我们同在！\n您可以在项目发展部分阅读关于NEEO Gold代币的更多信息。"
+    },
+
+    "section-messenger": {
+        "revMessenger": "革命性",
+        "messenger": "即时消息",
+        "blockchainTech": "基于区块链技术",
+        "instantTranslatorTitle": "即时翻译",
+        "instantTranslatorDesc": "NEEO Messenger可将来自100多种外语的文本消息立即翻译为您的母语。",
+        "downloadsTitle": "已有900多万次下载",
+        "downloadsDesc": "该应用程序可以在Google Play和App Store上下载。自发布以来已有00多万用户评分。",
+        "languageHelpTitle": "学习辅助",
+        "languageHelpDesc": "NEEO Messenger字典由用户不断更新，让您每天学习一门外语的新词。",
+        "earnWithNEEOTitle": "与NEEO一起赚钱",
+        "earnWithNEEODesc": "广告商可以在用户在游戏中积分并执行其他简单操作时推广其产品，并赚取NEEO代币。"
+    },
+    "section-stats": {
+        "title": "统计数据",
+        "entrepreneursNumber": "4亿",
+        "entrepreneurs": "企业家",
+        "entrepreneursDesc": "这是根据统计数据的人数。仅在美国，就有超过2700万企业家。",
+        "tradeGrowth": "79%",
+        "growth": "增长",
+        "tradeGrowthDesc": "这些数字代表了过去5年跨境贸易的发展。这意味着数百万企业家正努力进入国际市场。",
+        "populationPercent": "80%",
+        "population": "人口",
+        "populationDesc": "这是在美国只会说自己母语的人口百分比。在英国为85%，在日本为90%。",
+        "problemIntro": "他们都面临一个问题：",
+        "problem": "需要与来自",
+        "differentCountries": "不同国家的人沟通，",
+        "languageBarrier": "而不懂对方语言。",
+        "usersIntro": "他们都是",
+        "neeoMessenger": "NEEO Messenger的实际或潜在用户。"
+    },
+    "about": {
+        "title": "关于项目",
+        "item1": "最初，NEEO Messenger被设想为一个促进全球贸易发展的应用程序。最终，我们创建了一个完整的即时消息应用程序，用于各种通信。",
+        "item2": "您可以用自己的语言编写消息，并无论您的对话者是中国人、巴西人、荷兰人还是法国人，都会收到相同语言的回应。我们不只是创造了另一个消息应用程序，我们完全消除了语言障碍。",
+        "item3": "为了使用户能够通过NEEO Messenger赚取，我们基于区块链技术构建了它。现在，不仅广告商可以获利，任何用户都可以。",
+        "item4": "您可以向应用程序的字典中添加新词和短语，并获得奖励。您的工作将由NEEO社区评估，这得益于去中心化。",
+        "item5": "因此，我们获得了一个不断更新的字典，其中包括俚语和新词，并能够将它们翻译成100多种语言。",
+        "additionalTitle": "认为我们已经创建了完美的翻译消息应用程序？",
+        "additionalText": "实际上，这只是一个开始。"
+    },
+    "development": {
+        "title": "项目开发",
+        "subtitle": "去中心化的NEEO应用平台",
+        "tabs": {
+            "social": {
+                "title": "NEEO社交",
+                "desc": "用户可以通过社交媒体赚取代币",
+                "fullDesc": "NEEO社交用户通过他们看到的广告以及他们的活动获得代币。社交媒体和其他平台通过将您的个人数据出售给广告商来赚钱，而您却一无所获。"
+            },
+            "sellbuy": {
+                "title": "NEEO买卖",
+                "desc": "去中心化的交易平台",
+                "fullDesc": "由于基于以太坊的NEEO代币，我们最小化了欺诈风险。该平台的用户在贸易纠纷中充当裁判。"
+            },
+            "messenger": {
+                "title": "NEEO Messenger",
+                "desc": "即时翻译",
+                "fullDesc": "NEEO买卖应用程序的终极补充。在不同国家的代理之间买卖变得更加容易：由于即时消息翻译，您清楚地知道自己在购买什么。"
+            },
+            "robot": {
+                "title": "NEEO机器人",
+                "desc": "即时语音翻译",
+                "fullDesc": "与您不懂语言的人交流变得简单。安装NEEO机器人，将任何短语口述到麦克风中，应用程序将立即翻译它。"
+            },
+            "wallet": {
+                "title": "NEEO钱包",
+                "desc": "加密货币钱包",
+                "fullDesc": "所有财务操作都在NEEO钱包中进行。快速可靠的交易、资金安全存储以及即时货币兑换。"
+            },
+            "taxi": {
+                "title": "NEEO出租车",
+                "desc": "出租车服务",
+                "fullDesc": "NEEO出租车为乘客提供公平的价格，为司机提供方便的奖励系统。所有沟通都通过NEEO Messenger进行，以方便双方。"
+            }
+        }
+
+    },
+    "other_apps": {
+        "title": "其他应用程序",
+        "subtitle": "NEEO应用程序平台",
+        "taxi": {
+            "title": "NEEO出租车",
+            "desc": "方便预订出租车",
+            "detail": "NEEO生态系统内集成的出租车预订服务"
+        },
+        "mail": {
+            "title": "NEEO邮件",
+            "desc": "免费电子邮件服务",
+            "detail": "具有无限存储空间的免费电子邮件。"
+        },
+        "wifi": {
+            "title": "NEEO Wi-Fi",
+            "desc": "免费互联网",
+            "detail": "主要城市提供的免费Wi-Fi网络，适用于NEEO应用程序用户。"
+        },
+        "download_gol": "下載NEEO GOLD白皮書",
+        "download_beec": "下載BEEC白皮書",
+        "download_whitepaper": "下載NEEO白皮書"
+    },
+
+    "why_neeo": {
+        "reason": "为什么选择NEEO Messenger",
+        "success_project": "- 一个成功的项目",
+        "large_client_base": "庞大的潜在客户群体",
+        "client_base_desc": "潜在的客户群体有4亿名与外国代理商合作或希望将业务扩展到国际市场的企业家。这还不包括出于个人原因与外国人沟通的人。",
+        "decentralized_app": "去中心化的应用程序",
+        "decentralized_app_desc": "支持100多种语言并不断更新的去中心化应用程序有助于学习外语。用户不仅获得标准的知识库，还学习到了当前的口语，包括俚语和新词。",
+        "high_demand": "需求量大",
+        "high_demand_desc": "考虑到跨境贸易和全球化的增长，以及能够流利使用外语的人所占的极小比例，NEEO Messenger是不可或缺的。自应用程序开发以来，已经有900多万用户下载，这是需求的最佳证明。",
+        "earning_opportunity": "赚钱机会",
+        "earning_opportunity_desc": "广告商对该应用程序感兴趣，用户可以通过执行简单操作赚取NEEO代币：在游戏中使用Messenger、向NEEO字典中添加新词和短语。代币可以兑换成其他加密货币和法定货币，也可以用于在NEEO应用程序平台上支付商品和服务。",
+        "future_development": "未来的项目发展计划包括一个去中心化的社交网络和一个交易平台，您甚至可以通过社交活动和观看广告来赚钱。",
+        "future_development_continued": "NEEO应用程序基于区块链机制，可以确保数据安全性并抵抗恶意攻击。它们通过增加平台用户之间的信任来加速业务流程。综合来看，这预示着代币价格的上升。"
+    },
+    "roadmap": {
+        "title": "路线图",
+        "description": "项目开发进度",
+        "image_alt": "项目开发进度图像",
+        "image_alt_mobile": "移动设备的项目开发进度图像",
+        "banner_title": "NEEO Messenger",
+        "banner_description": "现已在App Store和Google Play上提供。",
+        "app_store_alt": "在App Store上下载",
+        "google_play_alt": "在Google Play上提供"
+    },
+
+    "faq": {
+        "heading": "常见问题",
+        "question0": "你们的竞争优势是什么？",
+        "answer0": "我们专注于四个主要产品：",
+        "product1": "NEEO Social - 让用户能够赚钱的社交网络",
+        "product2": "NEEO 卖&买 - 在线P2P平台，NEEO社交网络",
+        "product3": "NEEO Messenger - 带有翻译功能的即时通讯应用",
+        "product4": "NEEO Robot - 即时翻译/机器人",
+        "answer1": "尽管所有应用都有明确的目标，但它们共享一个共同特征 —— 用户在任何一个平台上都有能力赚钱。由于平台基于区块链技术，用户将有机会以最方便、简单、安全的方式改善他们的财务状况。",
+        "answer2": "与其他开始ICO的项目不同，我们的区别在于我们已经有一个功能性的NEEO Messenger应用，该应用可以在App Store和Google Play上使用，并已经有超过200万用户在使用（即将在韩国应用商店发布）。",
+        "question1": "NEEO Messenger在多少个国家被使用？",
+        "answer3": "目前，NEEO应用已经在全球178个国家的用户中被下载。",
+        "question2": "平台何时最终准备就绪可以使用？",
+        "answer4": "如果我们能够完成ICO并筹集到所需的资金，整个旅程直到区块链平台的最终实施将需要12个月。然而，无论ICO是否成功，我们都会依次提供不依赖我们的区块链的应用版本供用户测试：",
+        "answer5": "NEEO Messenger：已在App Store和Google Play上可用。",
+        "answer6": "NEEO 卖&买：2019年4月之后的测试版将发布。",
+        "answer7": "NEEO Social Beta版本：将在2019年4月之后发布。",
+        "answer8": "NEEO Robot：将在2019年10月发布。",
+        "answer9": "NEEO Mail：将在2019年12月发布。",
+        "answer10": "NEEO WiFi：将在2020年11月发布。",
+        "question3": "未包含在NEEO应用程序中的用户是否可以访问平台的产品或服务？",
+        "answer11": "是的，这种可能性将通过NEEO 卖&买提供：一旦卖家将产品上架销售，它将自动在其他主要互联网网站上可用。",
+        "question4": "谁是NEEO应用项目的所有者？",
+        "answer12": "NEEO应用项目的所有权属于香港NEEO Pal公司（neeopal.com）",
+        "answer13": "NEEO代币将从2019年3月11日起在Coinsuper交易所上市。尝试交易NEEO代币吧！",
+        "answer14": "最终，所有主要的加密货币交易所都将与NEEO合作。您将能够在NEEOICO.com或其他交易NEEO的交易所上查看价格。",
+        "answer15": "您可以将NEEO存储在ETH钱包和其他电子钱包中。",
+        "answer16": "如果您的钱包支持ERC20代币，那么您可以在其中存储NEEO。",
+        "answer17": "最终，所有主要的加密货币交易所都将与NEEO合作。您将能够在NEEOICO.com或其他交易NEEO的交易所上查看价格。",
+        "question5": "我可以在加密货币交易所交换NEEO吗？",
+        "question6": "我可以通过NEEO应用平台购买NEEO吗？",
+        "question7": "我该如何存储NEEO？",
+        "question8": "哪些钱包可以使用？",
+        "question9": "我在哪里可以查看NEEO的当前价值？"
+    },
+    "terms": {
+        "acceptance": "继续使用本网站即表示您接受我们的",
+        "linkText": "条款和条件"
+    },
+
+    "footer": {
+        "contactTitle": "联系方式",
+        "partnersHeading": "合作伙伴",
+        "partnersEmail": "business@neeosale.com",
+        "supportHeading": "支持",
+        "supportEmail": "info@neeosale.com",
+        "feedbackHeading": "反馈",
+        "feedbackEmail": "feedback@neeosale.com",
+        "about": "关于项目",
+        "development": "项目开发",
+        "prospects": "前景",
+        "whitepaper": "白皮书",
+        "faq": "常见问题",
+        "tokens": "NEEO代币",
+        "address": "neeopal.com",
+        "terms": "条款和条件"
+    }
+}

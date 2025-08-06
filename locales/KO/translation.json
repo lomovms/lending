@@ -1,0 +1,202 @@
+{
+    "nav": {
+        "about": "Main",
+        "function": "Function",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "download": "Download"
+    },
+    "section-top": {
+        "neeo": "NEEO",
+        "messenger": "메신저",
+        "instantTranslator": "100여 개 이상의 외국어에 대한 즉시 텍스트 번역기",
+        "teamTitle": "Neeo 프로젝트 팀이 고유한 NEEO Gold 토큰을 출시했습니다!",
+        "teamDescription": "함께 해 주셔서 감사합니다! NEEO Gold 토큰에 대한 자세한 내용은 프로젝트 개발 섹션에서 읽으실 수 있습니다.",
+        "projectLink": "프로젝트 개발"
+    },
+
+    "section-messenger": {
+        "revMessenger": "혁명적인",
+        "messenger": "메신저",
+        "blockchainTech": "블록체인 기술 기반",
+        "instantTranslatorTitle": "즉시 번역기",
+        "instantTranslatorDesc": "NEEO Messenger는 100개 이상의 외국어 텍스트 메시지를 즉시 귀하의 모국어로 번역합니다.",
+        "downloadsTitle": "9,000,000 이상의 다운로드",
+        "downloadsDesc": "이 앱은 Google Play 및 App Store에서 다운로드할 수 있습니다. 출시 이후로 9,000,000 명 이상의 사용자가 이용하고 있습니다.",
+        "languageHelpTitle": "학습 지원",
+        "languageHelpDesc": "NEEO Messenger 사전은 사용자들에 의해 지속적으로 업데이트되며 외국어에서 매일 새로운 단어를 학습할 수 있도록 도와줍니다.",
+        "earnWithNEEOTitle": "NEEO로 수익 창출",
+        "earnWithNEEODesc": "광고주는 제품을 홍보하고 사용자들은 게임에서 점수를 획득하거나 다른 간단한 작업을 수행함으로써 NEEO 토큰을 얻을 수 있습니다."
+    },
+    "section-stats": {
+        "title": "통계 데이터",
+        "entrepreneursNumber": "4억",
+        "entrepreneurs": "기업가",
+        "entrepreneursDesc": "이는 통계에 따른 사람 수입니다. 미국만 해도 2,700만 명의 기업가가 있습니다.",
+        "tradeGrowth": "79%",
+        "growth": "증가",
+        "tradeGrowthDesc": "이 숫자는 지난 5년간 국경을 넘어서는 무역의 발전을 나타냅니다. 즉, 수백만 명의 기업가가 국제 시장에 진출하려고 합니다.",
+        "populationPercent": "80%",
+        "population": "인구의",
+        "populationDesc": "미국에서는 80%의 사람들이 자국어만 사용합니다. 영국에서는 85%, 일본에서는 90%입니다.",
+        "problemIntro": "모두 하나의 문제를 공유합니다:",
+        "problem": "언어를 모르는",
+        "differentCountries": "다른 국가의 사람들과",
+        "languageBarrier": "대화해야 하는 필요성입니다.",
+        "usersIntro": "모두 현재 또는 잠재적인",
+        "neeoMessenger": "NEEO Messenger 사용자입니다."
+    },
+    "about": {
+        "title": "프로젝트 정보",
+        "item1": "원래 NEEO Messenger는 글로벌 무역 개발을 용이하게 하는 애플리케이션으로 설계되었습니다. 결과적으로 우리는 다양한 통신 용도로 사용되는 완전한 메신저를 만들었습니다.",
+        "item2": "귀하는 자국어로 메시지를 작성하고 상대방이 중국인, 브라질인, 네덜란드인 또는 프랑스인이든 상관없이 동일한 언어로 답변을 받습니다. 우리는 단순히 또 다른 메신저를 만든 것이 아니라 언어 장벽을 완전히 제거했습니다.",
+        "item3": "NEEO Messenger에서 수익을 창출할 수 있도록 블록체인 기술을 기반으로 만들었습니다. 이제 광고주 뿐만 아니라 모든 사용자가 수익을 얻을 수 있습니다.",
+        "item4": "귀하의 언어에 새로운 단어와 구문을 추가하고 보상을 받을 수 있습니다. 분산화가 가능해진 덕분에 NEEO 커뮤니티에서 귀하의 작업이 평가됩니다.",
+        "item5": "이를 통해 우리는 항상 업데이트되는 사전을 얻게 되며, 이 사전은 현재 대화식 언어, 포함하여 슬랭 및 신조어를 학습할 수 있으며 100개 이상의 언어로 번역됩니다.",
+        "additionalTitle": "완벽한 번역 메신저를 만든 것 같다고 생각하십니까?",
+        "additionalText": "실제로 이것은 시작에 불과합니다."
+    },
+    "development": {
+        "title": "프로젝트 개발",
+        "subtitle": "분산형 NEEO 앱 플랫폼",
+        "tabs": {
+            "social": {
+                "title": "NEEO Social",
+                "desc": "사용자가 수익 창출하는 소셜 네트워크",
+                "fullDesc": "NEEO Social 사용자는 광고를 보고 활동에 대한 보상으로 토큰을 받습니다. 소셜 네트워크 및 다른 플랫폼은 광고주에게 개인 데이터를 판매함으로써 수익을 창출하지만 사용자는 아무 것도 얻지 못합니다."
+            },
+            "sellbuy": {
+                "title": "NEEO Sell & Buy",
+                "desc": "분산형 거래 플랫폼",
+                "fullDesc": "우리는 이더리움 기반의 NEEO 토큰 덕분에 사기 위험을 최소화했습니다. 플랫폼 사용자들은 거래 분쟁에서 판사 역할을 합니다."
+            },
+            "messenger": {
+                "title": "NEEO Messenger",
+                "desc": "즉시 번역기",
+                "fullDesc": "NEEO Sell & Buy 앱에 대한 궁극적인 추가. 다른 국가의 대리점 간의 구매 및 판매가 쉬워졌으므로 즉시 메시지 번역으로 정확히 무엇을 구매하는지 알 수 있습니다."
+            },
+            "robot": {
+                "title": "NEEO Robot",
+                "desc": "즉시 오디오 번역기",
+                "fullDesc": "이해하지 못하는 언어로 대화하는 것이 간단해졌습니다. NEEO Robot을 설치하고 마이크로폰으로 어떤 문구든 말하면 앱이 즉시 번역해줍니다."
+            },
+            "wallet": {
+                "title": "NEEO Wallet",
+                "desc": "암호화폐 지갑",
+                "fullDesc": "모든 금융 거래는 NEEO Wallet에서 진행됩니다. 빠르고 안전한 거래, 자금 안전한 보관 및 즉시 통화 교환을 제공합니다."
+            },
+            "taxi": {
+                "title": "NEEO Taxi",
+                "desc": "택시 서비스",
+                "fullDesc": "NEEO Taxi는 승객에게 공정한 가격을 제공하고 운전자에게 편리한 보상 시스템을 제공합니다. 양쪽 모두의 편의를 위해 모든 통신은 NEEO Messenger를 통해 이루어집니다."
+            }
+        }
+    },
+    "other_apps": {
+        "title": "기타 앱",
+        "subtitle": "NEEO 앱 플랫폼",
+        "taxi": {
+            "title": "NEEO Taxi",
+            "desc": "편리하게 택시를 예약하세요.",
+            "detail": "NEEO 생태계 내 택시 예약 서비스 통합"
+        },
+        "mail": {
+            "title": "NEEO Mail",
+            "desc": "무료 이메일 서비스",
+            "detail": "무제한 저장 공간을 제공하는 무료 이메일 서비스."
+        },
+        "wifi": {
+            "title": "NEEO Wi-Fi",
+            "desc": "무료 인터넷",
+            "detail": "주요 도시에서 NEEO 앱 사용자에게 제공되는 무료 Wi-Fi 네트워크."
+        },
+        "download_gol": "NEEO GOLD 백서 다운로드",
+        "download_beec": "BEEC 백서 다운로드",
+        "download_whitepaper": "NEEO 백서 다운로드"
+    },
+    "why_neeo": {
+        "reason": "왜 NEEO Messenger를 선택해야 하는가?",
+        "success_project": "- 성공한 프로젝트",
+        "large_client_base": "대규모 잠재 고객 기반",
+        "client_base_desc": "해외 대리인과 협업하거나 비즈니스를 국제 수준으로 확장하려는 4억 명의 잠재적 고객 기반입니다. 이를테면 외국인과 개인적인 이유로 외국인과 소통하는 사람들은 여기에 포함되지 않습니다.",
+        "decentralized_app": "분산형 애플리케이션",
+        "decentralized_app_desc": "100개 이상의 언어를 지원하고 지속적으로 업데이트되는 사전을 가진 분산형 애플리케이션으로 외국어를 학습하는 데 도움을 줍니다. 사용자는 표준 지식 베이스만 얻는 것이 아니라 현재의 회화용 언어를 학습하며 슬랭 및 신조어를 포함합니다.",
+        "high_demand": "높은 수요",
+        "high_demand_desc": "국경을 넘어 무역 및 전체 글로벌화의 성장 및 외국어 능숙한 사람의 매우 작은 비율을 고려하면 NEEO Messenger는 단순히 필수입니다. 앱 개발 이후로 이미 9,000,000명 이상의 사용자가 다운로드했으며 수요의 최고 증명입니다.",
+        "earning_opportunity": "수익 기회",
+        "earning_opportunity_desc": "이 애플리케이션은 광고주에게 흥미로우며 사용자는 게임에서 메신저를 사용하거나 NEEO 사전에 새로운 단어와 구문을 추가하여 NEEO 토큰을 얻을 수 있습니다. 토큰은 다른 암호화폐 및 피아트 화폐로 교환하거나 NEEO 앱 플랫폼에서 상품 및 서비스 지불에 사용할 수 있습니다.",
+        "future_development": "프로젝트의 추가 개발에는 분산형 소셜 네트워크 및 거래 플랫폼이 포함되며 소셜 활동 및 광고 시청으로 수익을 창출할 수 있습니다.",
+        "future_development_continued": "향후 프로젝트 개발에는 분산형 소셜 네트워크 및 거래 플랫폼이 포함되며, 여기에서 소셜 활동 및 광고 시청까지 수익을 얻을 수 있습니다. NEEO Apps가 기반으로 하는 블록체인 메커니즘은 데이터 보안과 악의적인 공격에 대한 저항력을 보장하며 플랫폼 사용자 간의 신뢰를 증가시켜 비트코인 가격 상승을 예상시킵니다."
+    },
+
+    "roadmap": {
+        "title": "로드맵",
+        "description": "프로젝트 개발 일정",
+        "image_alt": "개발 일정 이미지",
+        "image_alt_mobile": "모바일 기기용 개발 일정 이미지",
+        "banner_title": "NEEO Messenger",
+        "banner_description": "이미 App Store 및 Google Play에서 사용 가능합니다.",
+        "app_store_alt": "App Store에서 다운로드",
+        "google_play_alt": "Google Play에서 사용 가능"
+    },
+
+    "faq": {
+        "heading": "자주 묻는 질문",
+        "question0": "경쟁우위는 무엇입니까?",
+        "answer0": "우리는 네 가지 주요 제품에 초점을 맞추고 있습니다:",
+        "product1": "NEEO 소셜 - 사용자들이 돈을 벌 수 있는 소셜 네트워크",
+        "product2": "NEEO 셀 & 바이 - 온라인 P2P 플랫폼, NEEO 소셜 네트워크",
+        "product3": "NEEO 메신저 - 번역 기능이 있는 인스턴트 메신저",
+        "product4": "NEEO 로봇 - 즉석에서 번역/로봇",
+        "answer1": "모든 애플리케이션이 명백한 목적을 가지고 있지만, 그들은 공통된 특징을 공유합니다 - 사용자는 그들 중 어느 것에서든 돈을 벌 수 있는 능력입니다. 플랫폼이 블록체인 기술을 기반으로 운영되므로, 사용자들은 가장 편리하고 간단하며 안전한 방법으로 재정 상태를 개선할 기회를 갖게 될 것입니다.",
+        "answer2": "다른 ICO를 시작하는 프로젝트들과 달리 우리를 차별화하는 또 다른 특징은 이미 기능적인 NEEO 메신저 앱을 가지고 있다는 것입니다. 이는 App Store와 Google Play에서 사용할 수 있으며 9,000,000명 이상의 사용자가 사용하고 있습니다(한국 앱 스토어에서 출시 예정).",
+        "question1": "몇 개국에서 NEEO 메신저를 사용하고 있습니까?",
+        "answer3": "현재 NEEO 앱은 전 세계 178개국의 사용자들에 의해 다운로드되었습니다.",
+        "question2": "플랫폼이 마침내 사용할 준비가 될 때는 언제입니까?",
+        "answer4": "ICO를 완료하고 필요한 자금을 조달할 수 있다면, 블록체인 플랫폼의 최종 구현까지 전체 여정은 12개월이 걸릴 것입니다. 그러나 ICO의 성공 여부와 관계없이, 우리의 블록체인에 의존하지 않는 앱들의 버전을 다음 순서로 사용자 테스트를 위해 제공할 것입니다:",
+        "answer5": "NEEO 메신저: 앱 스토어와 Google Play에서 사용 가능합니다.",
+        "answer6": "NEEO 셀 & 바이: 2019년 4월 이후 베타 버전 출시.",
+        "answer7": "NEEO 소셜 릴리즈 베타: 2019년 4월 이후 버전 출시.",
+        "answer8": "NEEO 로봇: 2019년 10월 출시.",
+        "answer9": "NEEO 메일: 2019년 12월 출시.",
+        "answer10": "NEEO 와이파이: 2020년 11월 출시.",
+        "question3": "NEEO 애플리케이션에 포함되지 않은 사용자들이 플랫폼의 제품이나 서비스에 액세스할 수 있습니까?",
+        "answer11": "예, 이러한 가능성은 NEEO 셀 & 바이를 통해 제공됩니다: 판매자가 제품을 판매 목록에 올리면, 그것은 자동적으로 다른 주요 인터넷 사이트에서 사용 가능해질 것입니다.",
+        "question4": "NEEO 앱 프로젝트의 소유자는 누구입니까?",
+        "answer12": "NEEO 앱 프로젝트의 모든 권리는 홍콩 NEEO Pal 회사(neeopal.com)가 소유하고 있습니다",
+        "answer13": "NEEO 토큰은 2019년 3월 11일부터 Coinsuper 거래소에서 사용 가능합니다. NEEO 토큰을 교환해 보세요!",
+        "answer14": "결국 모든 주요 암호화폐 거래소는 NEEO와 함께 작동할 것입니다. NEEOICO.com 또는 NEEO를 거래하는 다른 거래소에서 가격을 볼 수 있을 것입니다.",
+        "answer15": "NEEO를 ETH 지갑과 다른 전자 지갑에 저장할 수 있습니다.",
+        "answer16": "귀하의 지갑이 ERC20 토큰을 지원한다면, 그 안에 NEEO를 보유할 수 있습니다.",
+        "answer17": "결국 모든 주요 암호화폐 거래소는 NEEO와 함께 작동할 것입니다. NEEOICO.com 또는 NEEO를 거래하는 다른 거래소에서 가격을 볼 수 있을 것입니다.",
+        "question5": "암호화폐 거래소에서 NEEO를 교환할 수 있습니까?",
+        "question6": "NEEO 앱 플랫폼을 통해 NEEO를 구매할 수 있습니까?",
+        "question7": "NEEO를 어떻게 저장합니까?",
+        "question8": "어떤 지갑이 작동합니까?",
+        "question9": "NEEO의 현재 가치를 어디에서 확인할 수 있습니까?"
+    },
+
+
+    "terms": {
+        "acceptance": "사이트 사용을 계속함으로써 당신은 우리의",
+        "linkText": "이용 약관"
+    },
+
+    "footer": {
+        "contactTitle": "연락처",
+        "partnersHeading": "파트너",
+        "partnersEmail": "business@neeosale.com",
+        "supportHeading": "지원",
+        "supportEmail": "info@neeosale.com",
+        "feedbackHeading": "피드백",
+        "feedbackEmail": "feedback@neeosale.com",
+        "about": "프로젝트 정보",
+        "development": "프로젝트 개발",
+        "prospects": "전망",
+        "whitepaper": "화이트 페이퍼",
+        "faq": "자주 묻는 질문",
+        "tokens": "NEEO 토큰",
+        "address": "neeopal.com",
+        "terms": "이용 약관"
+    }
+}
